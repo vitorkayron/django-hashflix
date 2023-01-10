@@ -5,7 +5,17 @@
 
 ## Resumo:
 
-- O site exibe a tela inicial para que o usuário possa fazer o login ou se cadastrar, ao fazer login você entrará na página de filmes, que na verdade são cursos da Hashtag Treinamentos. Com uma tela mostrando os filmes mais recentes de acordo com a data postada no site, filmes mais vistos e os filmes que você já assistiu.
+- O site exibe a tela inicial para que o usuário possa fazer o login ou se cadastrar, ao fazer login você entrará na página de filmes. Com uma tela mostrando os filmes mais recentes de acordo com a data postada no site, filmes mais vistos e os filmes que você já assistiu.
+
+## Features:
+
+- Cadastro de Filmes e Séries.
+- Sessão com filmes mais novos, relacionados e mais em alta.
+- Criação, login e autenticação de Usuário.
+- Sessão para editar perfil.
+- Contador de visualizações.
+- Lista com todos os episódios de uma série.
+- Sessão com filmes já assistidos.
 
 ![Captura de tela_20230105_103805](https://user-images.githubusercontent.com/83433537/210794033-2af69050-393a-42a5-af40-56738ee43f6b.png)
 <br>
